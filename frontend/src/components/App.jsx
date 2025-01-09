@@ -3,7 +3,7 @@ import useFetchData from "../hooks/useFetchData";
 import SearchResults from "./SearchResults/SearchResults";
 
 const App = () => {
-  const BASE_URL = "http://foodzonebackend.vercel.app";
+  const BASE_URL = "https://foodzonebackend.vercel.app";
   const { searchFood, error, loading, filteredData, setLoading, filterFood } =
     useFetchData(BASE_URL + "/api/data");
 
