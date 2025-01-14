@@ -1,6 +1,6 @@
 # 🍴 FoodZone  
 
-**FoodZone** is a single-page web application designed for showcasing a food menu, categorized into breakfast, lunch, and dinner options. Built using **React.js** for the frontend and **Express.js** for the backend, this project demonstrates a clean, modern UI with responsive design elements.  
+🍽️ **FoodZone** is a single-page web application designed for showcasing a food menu, categorized into breakfast 🥞, lunch 🍔, and dinner 🍲 options. Built using **React.js** ⚛️ for the frontend and **Express.js** 🛠️ for the backend, this project demonstrates a clean, modern UI 🎨 with responsive design elements 📱💻.
 
 ---
 
@@ -109,4 +109,4 @@ We welcome contributions! If you'd like to contribute:
 For any inquiries or support, please contact:
 
 - **Name**: Amjad Imdad
-- **Email**: [mailto:amjadabro598@gmail.com]
+- **Email**: [amjadabro598@gmail.com]
