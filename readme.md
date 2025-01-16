@@ -87,7 +87,6 @@ Once both the frontend and backend are running, open your browser and navigate t
 - 🗃️ Add a backend database like **MongoDB** for managing dynamic data.
 - 👤 Integrate **user authentication** for personalized features.
 - 🖥️ Implement an **admin dashboard** to manage food items, orders, and user data.
-- 📱 Consider adding **mobile payment options** for order placements.
 
 ---
 
